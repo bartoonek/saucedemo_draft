@@ -1,6 +1,6 @@
 from seleniumbase import BaseCase
 from POM_auto.page_object_model import PageObject
-
+#some text from pc
 class Saucedemo(BaseCase):
 
 
